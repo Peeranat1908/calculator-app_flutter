@@ -8,7 +8,6 @@ brew install flutter
 ```
 flutter run
 ```
-=======
 # my_app
 
 A new Flutter project.
